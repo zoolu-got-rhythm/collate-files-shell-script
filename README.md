@@ -3,6 +3,7 @@ collate text files into 1 single file
 
 ## todo
 * make -f=filename argument to specificy name of generated output file
+* add statistics summer for each file such as word count and line count
 
 ## how to
 1. find or create files you want to collate
