@@ -2,7 +2,7 @@
 collate text files into 1 single file
 
 ## todo
-* make -f=filename argument to specificy name of generated output file 
+* make -f=filename argument to specificy name of generated output file
 
 ## how to
 1. find or create files you want to collate
@@ -11,5 +11,5 @@ collate text files into 1 single file
 ![image of screenshot2](./screenshot2.png)
 3. output file is called summary.txt rename it with mv command to something more appropriate
 ![image of screenshot3](./screenshot3.png)
-4. open collated file
-![image of screenshot4](./screenshot4.png)
+4. open collated file!  
+[image of screenshot4](./screenshot4.png)
